@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blockslol/guapware.cc/main/GUAPWARE.lua"))()

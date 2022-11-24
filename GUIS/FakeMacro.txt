@@ -1,0 +1,2 @@
+PRESS T TO TOGGLE 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Topcoldgaming/loadstring-scritps-/main/Encoded%20FAKE%20macro%20script"))()
