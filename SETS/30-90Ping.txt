@@ -1,0 +1,7 @@
+90 = Prediction = 0.136
+80 = prediction = 0.134
+70 = prediction = 0.131
+60 = prediction = 0.1229
+50 = prediction = 0.1225
+40 = prediction = 0.1256
+30 = prediction = 0.11 
