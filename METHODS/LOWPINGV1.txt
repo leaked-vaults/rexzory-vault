@@ -1,0 +1,8 @@
+1. Download DNSJumper
+2. After download click on the "fastest dns" button
+3. once you hear a beep close it and choose a dns server. Use Googe Public DNS Server
+
+You can also do this for low ping
+https://www.youtube.com/watch?v=fnRWeGeNsso
+How to Create a System Restore Point in Windows 10
+https://www.youtube.com/watch?v=dqp1jdqGSa0
