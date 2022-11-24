@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rexifykanjireal/rexifylol/main/Rexify%20x%20enzo%20lock"))()
